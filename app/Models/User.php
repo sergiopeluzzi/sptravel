@@ -1,6 +1,6 @@
 <?php
 
-namespace SpeedTravel;
+namespace SpeedTravel\Models;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
