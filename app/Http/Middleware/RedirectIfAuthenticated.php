@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace SpeedTravel\Http\Middleware;
 
 use Closure;
 use Illuminate\Contracts\Auth\Guard;

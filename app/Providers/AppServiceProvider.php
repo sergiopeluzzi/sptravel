@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace SpeedTravel\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
