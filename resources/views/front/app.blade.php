@@ -1,13 +1,17 @@
 <html>
 <head>
-    <title>Speed Travel</title>
+
     @include('front.stylesheet')
 
 </head>
 <body>
-    @include('front.header')
+    <div id="wrapper">
 
+        @include('front.header')
 
+        @include('front.body')
+
+    </div>
 
     @include('front.footer')
 
